@@ -7,7 +7,7 @@ Usage
 To use this project, follow these steps:
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/your-username/basic-blockchain-python.git
+   git clone https://github.com/anjaliiiii1/Basic-Blockchain-in-Python.git
 
 2. Navigate to the project directory:
 
