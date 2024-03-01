@@ -31,6 +31,9 @@ print("Data:", block.data)
 
 print("Previous Hash:", block.previous_hash)
 
+Contributions
+Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
 print("Block Hash:", block.hash)
 
 
