@@ -24,9 +24,13 @@ To use this project, follow these steps:
 block = Block(1, date.datetime.now(), "Hello, World!", "0")
 
 print("Block Index:", block.index)
+
 print("Timestamp:", block.timestamp)
+
 print("Data:", block.data)
+
 print("Previous Hash:", block.previous_hash)
+
 print("Block Hash:", block.hash)
 
 
